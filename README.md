@@ -1,2 +1,2 @@
 # Jira
-react+typescript+jira
+react+typescript+jira+hooks
