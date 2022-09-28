@@ -1,2 +1,2 @@
 # Jira
-react+typescript1111
+react+typescript
